@@ -2,3 +2,6 @@
 
 `npm init` - 建立package.json檔案
 `npm install express` - 安裝express框架
+
+# ci/cd
+`bash bash.sh` - 跟目錄下執行該檔案可以docker build & docker run 
