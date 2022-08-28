@@ -1,8 +1,3 @@
-  "scripts": {
-    "start": "node ./bin/www"
-    "build": "webpack -w",
-    "start": "nodemon dist/index.bundle.js"
-  },
 # 建立專案步驟
 
 `npm init` - 建立package.json檔案
